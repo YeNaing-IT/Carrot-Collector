@@ -58,5 +58,3 @@ The project uses simple Unity mechanics such as:
 * **Unity 2D**
 * **Fixed Joystick**
 * **Android Controls**
-
-## 🚀 Getting Start
